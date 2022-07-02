@@ -1,26 +1,26 @@
 {
   "config": [
     {
-      "username": "请在这里输入您的学号，保留引号",
-      "password": "请在这里输入您的统一身份认证密码，保留引号",
-      "password_vpn": "请在这里输入您的WiFi/VPN密码，保留引号",
-      "email": "请在这里输入您的邮箱地址，保留引号",
-      "district": "翔安区或思明区",
+      "username": "22320211151297",
+      "password": "xX401876486",
+      "password_vpn": "xX401876486",
+      "email": "xupeng1924@stu.xmu.edu.cn",
+      "district": "翔安区",
       "inschool": "在校",
-      "campus": "翔安校区或思明校区",
-      "building": "请保证与打卡页面相同，比如思明白城07",
-      "room": "和查电费一样的四位数，如0101"
+      "campus": "翔安校区",
+      "building": "翔安南安03",
+      "room": "0306"
     },
     {
-      "username": "请在这里输入您的学号，保留引号",
-      "password": "请在这里输入您的统一身份认证密码，保留引号",
-      "password_vpn": "请在这里输入您的WiFi/VPN密码，保留引号",
-      "email": "请在这里输入您的邮箱地址，保留引号",
-      "district": "翔安区或思明区",
+      "username": "22320211151289",
+      "password": "RSW12250406ly",
+      "password_vpn": "RSW12250406ly",
+      "email": "luyingZJOU@163.com",
+      "district": "翔安区",
       "inschool": "在校",
-      "campus": "翔安校区或思明校区",
-      "building": "请保证与打卡页面相同，比如思明白城07",
-      "room": "和查电费一样的四位数，如0101"
+      "campus": "翔安校区",
+      "building": "翔安南安09",
+      "room": "0314"
     }
   ]
 }
